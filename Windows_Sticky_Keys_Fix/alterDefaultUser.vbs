@@ -1,3 +1,4 @@
+//Credit to creator
 If WScript.Arguments.count <> 2 Then WScript.Quit
 
 Const wbemFlagReturnImmediately = &h10
